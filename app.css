@@ -2,3 +2,8 @@ body  {
   background: #3933630;
   color: #020812
 }
+
+.brand-logo {
+  border: red solid 3px;
+  background: red;
+}
